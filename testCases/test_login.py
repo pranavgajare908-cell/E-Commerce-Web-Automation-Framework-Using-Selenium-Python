@@ -4,7 +4,6 @@ import pyperclip
 import pytest
 from selenium.webdriver import Keys
 from selenium.webdriver.common.by import By
-from selenium.webdriver.common.devtools.v146.page import capture_screenshot
 from selenium.webdriver.support.wait import WebDriverWait as EC, WebDriverWait
 
 from pages.login_page import loginPage
