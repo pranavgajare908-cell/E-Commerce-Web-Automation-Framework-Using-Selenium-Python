@@ -1,0 +1,11 @@
+2026-06-06 11:55:58 | automation | INFO | ========== TC_LG_003 Started ==========
+2026-06-06 11:56:00 | automation | INFO | Application Opened Successfully
+2026-06-06 11:56:00 | automation | INFO | Clicked On My Account
+2026-06-06 11:56:00 | automation | INFO | Clicked On Login Page
+2026-06-06 11:56:00 | automation | INFO | Clicked On Login Button
+2026-06-06 11:56:02 | automation | INFO | Session Maintained Successfully
+2026-06-06 11:56:02 | automation | INFO | Logout Option Displayed Successfully
+2026-06-06 11:56:02 | automation | INFO | Session ID Before Reopen: 49f82c789fca114fa6f05d62a31b75e9
+2026-06-06 11:56:07 | automation | INFO | Browser Closed Without Logout
+2026-06-06 11:56:07 | automation | INFO | Session ID Before Reopen: 49f82c789fca114fa6f05d62a31b75e9
+2026-06-06 11:56:08 | automation | INFO | Session ID After Reopen: 3e7e4cdab67894e8381b66bc35f079da

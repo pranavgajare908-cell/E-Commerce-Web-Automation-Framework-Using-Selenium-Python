@@ -1,0 +1,7 @@
+2026-06-06 11:05:03 | automation | INFO | ========== TC_LG_003 Started ==========
+2026-06-06 11:05:05 | automation | INFO | Application Opened Successfully
+2026-06-06 11:05:05 | automation | INFO | Clicked On My Account
+2026-06-06 11:05:06 | automation | INFO | Clicked On Login Page
+2026-06-06 11:05:07 | automation | INFO | Clicked On Login Button
+2026-06-06 11:05:09 | automation | INFO | Logout Option Displayed Successfully
+2026-06-06 11:05:11 | automation | INFO | Browser Closed Without Logout

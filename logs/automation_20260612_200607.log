@@ -1,0 +1,22 @@
+2026-06-12 20:06:11 | automation | INFO | ========== TC_SF_014 Started ==========
+2026-06-12 20:06:14 | automation | INFO | Application Opened Successfully
+2026-06-12 20:06:15 | automation | INFO | Searched Product : Mac
+2026-06-12 20:06:15 | automation | INFO | Selecting Sort Option : Default
+2026-06-12 20:06:18 | automation | INFO | Default Selected Successfully
+2026-06-12 20:06:18 | automation | INFO | Selecting Sort Option : Name (A - Z)
+2026-06-12 20:06:20 | automation | INFO | Name (A - Z) Selected Successfully
+2026-06-12 20:06:20 | automation | INFO | Selecting Sort Option : Name (Z - A)
+2026-06-12 20:06:23 | automation | INFO | Name (Z - A) Selected Successfully
+2026-06-12 20:06:23 | automation | INFO | Selecting Sort Option : Price (Low > High)
+2026-06-12 20:06:25 | automation | INFO | Price (Low > High) Selected Successfully
+2026-06-12 20:06:25 | automation | INFO | Selecting Sort Option : Price (High > Low)
+2026-06-12 20:06:28 | automation | INFO | Price (High > Low) Selected Successfully
+2026-06-12 20:06:28 | automation | INFO | Selecting Sort Option : Rating (Highest)
+2026-06-12 20:06:30 | automation | INFO | Rating (Highest) Selected Successfully
+2026-06-12 20:06:30 | automation | INFO | Selecting Sort Option : Rating (Lowest)
+2026-06-12 20:06:33 | automation | INFO | Rating (Lowest) Selected Successfully
+2026-06-12 20:06:33 | automation | INFO | Selecting Sort Option : Model (A - Z)
+2026-06-12 20:06:36 | automation | INFO | Model (A - Z) Selected Successfully
+2026-06-12 20:06:36 | automation | INFO | Selecting Sort Option : Model (Z - A)
+2026-06-12 20:06:38 | automation | INFO | Model (Z - A) Selected Successfully
+2026-06-12 20:06:38 | automation | INFO | Clicked Select Sort Option

@@ -1,0 +1,9 @@
+2026-06-08 12:15:24 | automation | INFO | ========== TC_LG_004 Started ==========
+2026-06-08 12:15:25 | automation | INFO | Application Opened Successfully
+2026-06-08 12:15:26 | automation | INFO | Clicked On My Account
+2026-06-08 12:15:27 | automation | INFO | Clicked On Login Page
+2026-06-08 12:15:28 | automation | INFO | User Logged In Successfully
+2026-06-08 12:15:30 | automation | INFO | Logged Out Successfully
+2026-06-08 12:15:30 | automation | INFO | Clicked Browser Back Button
+2026-06-08 12:15:35 | automation | INFO | User Remained Logged Out
+2026-06-08 12:15:35 | automation | INFO | ========== TC_LG_004 Passed ==========

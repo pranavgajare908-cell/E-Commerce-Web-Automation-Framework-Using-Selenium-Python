@@ -1,0 +1,1 @@
+python -m pytest -s -v testCases -m "regression" --html=reports/regression_report.html

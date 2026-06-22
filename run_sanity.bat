@@ -1,0 +1,1 @@
+python -m pytest -s -v testCases -m "sanity" --html=reports/sanity_report.html

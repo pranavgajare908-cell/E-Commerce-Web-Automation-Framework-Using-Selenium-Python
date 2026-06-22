@@ -1,0 +1,9 @@
+2026-06-09 12:53:01 | automation | INFO | ========== TC_SF_004 Started ==========
+2026-06-09 12:53:02 | automation | INFO | Application Opened Successfully
+2026-06-09 12:53:02 | automation | INFO | Clicked On My Account
+2026-06-09 12:53:03 | automation | INFO | Clicked On Login Page
+2026-06-09 12:53:03 | automation | INFO | User Logged In Successfully
+2026-06-09 12:53:04 | automation | INFO | Entered Product Name : iMac
+2026-06-09 12:53:07 | automation | INFO | Clicked Search Button
+2026-06-09 12:53:07 | automation | INFO | Proper No Product Message Displayed
+2026-06-09 12:53:07 | automation | INFO | ========== TC_SF_004 Passed ==========

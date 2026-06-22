@@ -1,0 +1,5 @@
+2026-06-06 12:36:02 | automation | INFO | ========== TC_LG_005 Started ==========
+2026-06-06 12:36:04 | automation | INFO | Application Opened Successfully
+2026-06-06 12:36:05 | automation | INFO | Clicked On My Account
+2026-06-06 12:36:05 | automation | INFO | Logout option is not displayed before login
+2026-06-06 12:36:05 | automation | INFO | ========== TC_LG_005 Passed ==========

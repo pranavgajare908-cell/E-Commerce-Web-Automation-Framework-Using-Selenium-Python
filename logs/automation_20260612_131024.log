@@ -1,0 +1,12 @@
+2026-06-12 13:10:27 | automation | INFO | ========== TC_SF_001 Started ==========
+2026-06-12 13:10:28 | automation | INFO | Application Opened Successfully
+2026-06-12 13:10:28 | automation | INFO | Entered Product Name : iMac
+2026-06-12 13:10:31 | automation | INFO | Clicked Search Button
+2026-06-12 13:10:31 | automation | INFO | Just when you thought iMac had everything, now there´s even more. More powerful Intel Core 2 Duo pro..
+2026-06-12 13:10:31 | automation | INFO | ========== TC_SF_001 Passed ==========
+2026-06-12 13:10:34 | automation | INFO | ========== TC_SF_002 Started ==========
+2026-06-12 13:10:35 | automation | INFO | Application Opened Successfully
+2026-06-12 13:10:35 | automation | INFO | Entered Product Name : Fitbit
+2026-06-12 13:10:38 | automation | INFO | Proper No Product Message Displayed
+2026-06-12 13:10:38 | automation | INFO | ========== TC_SF_002 Passed ==========
+2026-06-12 13:10:41 | automation | INFO | ========== TC_SF_003 Started ==========

@@ -1,0 +1,11 @@
+2026-06-11 12:40:32 | automation | INFO | ========== TC_SF_011 Started ==========
+2026-06-11 12:40:32 | automation | INFO | ========== TC_LF_017 Started ==========
+2026-06-11 12:40:35 | automation | INFO | Application Opened Successfully
+2026-06-11 12:40:36 | automation | INFO | Searched Product : iMac
+2026-06-11 12:40:37 | automation | INFO | Clicked List View
+2026-06-11 12:40:37 | automation | INFO | Product Image Displayed In List View
+2026-06-11 12:40:39 | automation | INFO | Clicked Product Name
+2026-06-11 12:40:39 | automation | INFO | Navigated To Product Display Page
+2026-06-11 12:40:41 | automation | INFO | Clicked Grid View
+2026-06-11 12:40:41 | automation | INFO | Product Image Displayed In Grid View
+2026-06-11 12:40:41 | automation | INFO | Clicked Product Name

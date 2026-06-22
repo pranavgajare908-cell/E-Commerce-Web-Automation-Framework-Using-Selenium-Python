@@ -1,0 +1,9 @@
+2026-06-12 11:56:08 | automation | INFO | ========== TC_SF_012 Started ==========
+2026-06-12 11:56:10 | automation | INFO | Application Opened Successfully
+2026-06-12 11:56:11 | automation | INFO | Searched Product : Mac
+2026-06-12 11:56:11 | automation | INFO | Multiple Product Displayed : 4
+2026-06-12 11:56:11 | automation | INFO | Clicked List View
+2026-06-12 11:56:11 | automation | INFO | ['iMac', 'MacBook', 'MacBook Air', 'MacBook Pro'] are Displayed In List View
+2026-06-12 11:56:11 | automation | INFO | Clicked Grid View
+2026-06-12 11:56:11 | automation | INFO | ['iMac', 'MacBook', 'MacBook Air', 'MacBook Pro'] are Displayed In List View
+2026-06-12 11:56:11 | automation | INFO | ========== TC_SF_012 Passed ==========

@@ -1,0 +1,8 @@
+2026-06-19 13:10:55 | automation | INFO | ========== TC_WL_003 Started ==========
+2026-06-19 13:11:01 | automation | INFO | Application Opened Successfully
+2026-06-19 13:11:01 | automation | INFO | Clicked On My Account
+2026-06-19 13:11:05 | automation | INFO | Clicked On Login Page
+2026-06-19 13:11:05 | automation | INFO | Clicked On Store Logo Page
+2026-06-19 13:11:05 | automation | INFO | product has been matched MacBook
+2026-06-19 13:11:05 | automation | INFO | Clicked On Wishlist Page
+2026-06-19 13:11:05 | automation | INFO | ========== TC_WL_002 Passed ==========

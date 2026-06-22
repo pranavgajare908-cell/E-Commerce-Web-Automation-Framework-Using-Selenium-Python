@@ -1,0 +1,1 @@
+python -m pytest -s -v testCases -m "functional" --html=reports/functional_report.html

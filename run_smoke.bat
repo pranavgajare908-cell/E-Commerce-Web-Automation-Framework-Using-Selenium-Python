@@ -1,0 +1,1 @@
+python -m pytest -s -v testCases -m "smoke" --html=reports/smoke_report.html

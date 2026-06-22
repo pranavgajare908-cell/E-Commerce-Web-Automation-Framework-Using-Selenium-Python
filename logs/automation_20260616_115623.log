@@ -1,0 +1,11 @@
+2026-06-16 11:56:25 | automation | INFO | ========== TC_ATC_002 Started ==========
+2026-06-16 11:56:25 | automation | INFO | Application Opened Successfully
+2026-06-16 11:56:26 | automation | INFO | Clicked On My Account
+2026-06-16 11:56:26 | automation | INFO | Clicked On Login Page
+2026-06-16 11:56:28 | automation | INFO | User Logged In Successfully
+2026-06-16 11:56:28 | automation | INFO | Search Product Button Clicked
+2026-06-16 11:56:28 | automation | INFO | Product Wishlist Clicked
+2026-06-16 11:56:29 | automation | INFO | Product Wishlist Header Clicked
+2026-06-16 11:56:29 | automation | INFO | Wishlist Add To Cart Clicked
+2026-06-16 11:56:29 | automation | INFO | Shopping Cart Header Clicked
+2026-06-16 11:56:30 | automation | INFO | ========== TC_ATC_002 Passed ==========
